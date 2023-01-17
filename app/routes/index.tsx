@@ -30,7 +30,7 @@ export default function Index() {
         </div>
         <div>
           <button type="submit" name="action" value="absolute">
-            Redirect action with absolute path
+            Redirect action with absolute path (not working)
           </button>
         </div>
         <div>
